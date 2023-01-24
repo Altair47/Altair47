@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=75&lines=%2F+Hey+I'm+Nick+%5C;%5C+Welcome+to+my+profile+%2F" class="center">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=75&lines=%2F+Hey+I'm+Nick+%5C;%5C+Welcome+to+my+profile+%2F" class="center">
+</div>
 
 * * *
 
@@ -19,11 +21,15 @@
 
 # 📊 GitHub Stats:
 
-![](http://github-readme-stats-altair47.vercel.app/api?username=Altair47&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Altair47&theme=onedark&hide_border=false)
-![](http://github-readme-stats-altair47.vercel.app/api/top-langs/?username=Altair47&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<img src="http://github-readme-stats-altair47.vercel.app/api/top-langs/?username=Altair47&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" class="center">
+<div align="center">
+  <img src="http://github-readme-stats-altair47.vercel.app/api?username=Altair47&theme=onedark&hide_border=false&include_all_commits=true&count_private=true">
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Altair47&theme=onedark&hide_border=false">
+</div>
+<div align="center">
+  <img src="http://github-readme-stats-altair47.vercel.app/api/top-langs/?username=Altair47&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</div>
 
 ## 🏆 GitHub Trophies
 
