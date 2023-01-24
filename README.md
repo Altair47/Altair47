@@ -19,9 +19,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Altair47&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
+![](http://github-readme-stats-altair47.vercel.app/api?username=Altair47&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Altair47&theme=onedark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Altair47&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-readme-stats-altair47.vercel.app/api/top-langs/?username=Altair47&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
