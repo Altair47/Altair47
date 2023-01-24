@@ -23,6 +23,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Altair47&theme=onedark&hide_border=false)
 ![](http://github-readme-stats-altair47.vercel.app/api/top-langs/?username=Altair47&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<img src="http://github-readme-stats-altair47.vercel.app/api/top-langs/?username=Altair47&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" class="center">
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Altair47&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
