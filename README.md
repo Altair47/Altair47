@@ -7,7 +7,7 @@
 # 💫 About Me:
 
 🏛️ Bachelor in Software Engineering. </br>
-🏢 Currently Working on Threenitas.com </br>
+🏢 Currently Working at Threenitas.com </br>
 🌱 In process of learning Rust from scratch! </br>
 ⚡ Working on different Python tools. I'm also making my second Unity game 🎮 </br>
 
