@@ -7,9 +7,9 @@
 # 💫 About Me:
 
 🏛️ Bachelor in Software Engineering. </br>
-🏢 Currently Working at Threenitas.com </br>
+🏢 Currently Working at [Synapsecom](https://synapsecom.gr) implementing, automating and engineering from the ground up, the in-house cloud infrastructure backed by immersion-cooled bare metal servers and network equipment.</br>
 🌱 In process of learning Rust from scratch! </br>
-⚡ Working on different Python tools and automating everything with anything. I'm also making my second Unity game 🎮 </br>
+🎮 Slowly developing my second game  </br>
 
 ## 🌐 Socials:
 
